@@ -9,4 +9,4 @@ Importing Responses from Google Sheet
 
 3. With App Script, write a function ```submitForm()```, which can be found [here](https://github.com/daqichen/Auto-Submit-Google-Form-App-Script-/blob/master/Code.gs), to automatically draw data from that above Sheet and submit [Form](https://docs.google.com/forms/d/e/1FAIpQLSd2IDGmjVwmM6F0cx9Xej2h_RZp_NQ5aLqkHYAmC45IMqNiEQ/viewform?usp=sf_link) reponses.
 
-## Presentation of the Data on [Data Studio](https://datastudio.google.com/reporting/1d8fee7a-61c0-4818-beea-f1dd0577076c)
+## 2. Presentation of the Data on [Data Studio](https://datastudio.google.com/reporting/1d8fee7a-61c0-4818-beea-f1dd0577076c)
