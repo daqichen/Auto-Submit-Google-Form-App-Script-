@@ -2,7 +2,7 @@
 Importing Responses from Google Sheet
 
 ## 1. Pull Data 
-a. from [Kaggle](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+a. from [Kaggle](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset).
    This project used the data file "COVID19_line_list_data.csv"
   
 b. Upload Data into [Google Sheet](https://docs.google.com/spreadsheets/d/1PwKVTGD7O-sVtFMVbY0PKvHMgBMMob-8DwF-HLyC1yw/edit?usp=sharing)
